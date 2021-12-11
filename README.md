@@ -1,4 +1,4 @@
-# OctoPrint-Anotherphysicalbutton
+# OctoPrint-AnotherPhysicalButtons
 
 **TODO:** Describe what your plugin does.
 
@@ -7,7 +7,7 @@
 Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
 or manually using this URL:
 
-    https://github.com/jaxxfrost/OctoPrint-Anotherphysicalbutton/archive/master.zip
+    https://github.com/jaxxfrost/OctoPrint-AnotherPhysicalButtons/archive/master.zip
 
 **TODO:** Describe how to install your plugin, if more needs to be done than just installing it via pip or through
 the plugin manager.

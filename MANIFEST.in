@@ -1,4 +1,4 @@
 include README.md
-recursive-include octoprint_AnotherPhysicalButton/templates *
-recursive-include octoprint_AnotherPhysicalButton/translations *
-recursive-include octoprint_AnotherPhysicalButton/static *
+recursive-include octoprint_AnotherPhysicalButtons/templates *
+recursive-include octoprint_AnotherPhysicalButtons/translations *
+recursive-include octoprint_AnotherPhysicalButtons/static *
