@@ -13,4 +13,4 @@ or manually using this URL:
 
 ## Configuration
 
-It should be fairly obvious what the settings do.
+Explanations are in tooltops on the setup page.
